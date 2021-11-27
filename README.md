@@ -1,5 +1,5 @@
 # Aprendendo HTML
-Programando em HTML
+HTML (HyperText Markup Language)
 <!--Aprendendo a programar copiando sites existentes-->
 
 ```
